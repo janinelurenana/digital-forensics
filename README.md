@@ -150,4 +150,4 @@ DF-Challenge-1/
     └── 03_e01_verification.png
 ```
 
-**Note:** The original DD image and generated E01 evidence segments are be preserved. Do not upload large evidence images to a public GitHub repository.
+**Note:** Original raw disk image (.dd) and derived E01 evidence segments omitted due to file size constraints.
