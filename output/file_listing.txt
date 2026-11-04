@@ -1,0 +1,51 @@
+r/r 3:	IAMAN $_@   (Volume Label Entry)
+v/v 33423363:	$MBR
+v/v 33423364:	$FAT1
+v/v 33423365:	$FAT2
+V/V 33423366:	$OrphanFiles
++ -/d * 133:	design
+++ r/r * 263:	winter_storm.amr
+++ r/r * 267:	winter_whether_advisory.zip
++ -/d * 136:	PRICIN~1
+++ r/r * 967047:	my_favorite_cars.db
+++ r/r * 967050:	my_favorite_movies.7z
+++ r/r * 967053:	new_years_day.jpg
+++ r/r * 967056:	super_bowl.avi
++ -/d * 137:	progress
+++ r/r * 1651335:	my_friends.svg
+++ r/r * 1651338:	my_smartphone.png
+++ r/r * 1651341:	new_year_calendar.one
++ -/d * 138:	proposal
+++ r/r * 1793159:	a_gift_from_you.gif
+++ r/r * 1793161:	landscape.png
++ -/d * 141:	TECHNI~1
+++ r/r * 3096966:	diary_#1d.txt
+++ r/r * 3096968:	diary_#1p.txt
+++ r/r * 3096970:	diary_#2d.txt
+++ r/r * 3096972:	diary_#2p.txt
+++ r/r * 3096974:	diary_#3d.txt
+++ r/r * 3096976:	diary_#3p.txt
++ -/r * 3256069:	desktop.ini
++ -/r * 5760645:	amalfi.bmp
++ -/r * 5760648:	BAMBOO~1.GIF
++ -/r * 5760649:	barn.gif
++ -/r * 5760650:	blini.gif
++ -/r * 5760651:	boudicca.bmp
++ -/r * 5760652:	cactus.png
++ -/r * 5760653:	cave.png
++ -/r * 5760656:	CUTTY-~1.JPG
++ -/r * 5760657:	eggs.gif
++ -/r * 5760659:	FORSYT~1.PNG
++ -/r * 5760660:	injera.gif
++ -/r * 5760663:	JACK-O~1.TIF
++ -/r * 5760664:	jump.jpg
++ -/r * 5760665:	leaf.jpg
++ -/r * 5760666:	oak-snow.jpg
++ -/r * 5760667:	orchid.png
++ -/r * 5760670:	PIAZZA~1.JPG
++ -/r * 5760671:	pisa.JPG
++ -/r * 5760672:	SPQR.JPG
++ -/r * 5760675:	STONEH~1.JPG
++ -/r * 5760676:	tapas.gif
++ -/r * 5760677:	tomatoes.gif
++ -/r * 5760678:	wat.gif
