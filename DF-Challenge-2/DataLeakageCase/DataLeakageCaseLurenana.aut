@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2026/11/05 21:01:39 (PST)</CreatedDate>
+  <ModifiedDate>2026/11/05 21:01:42 (PST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.22.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.22.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>dataleakagecaselurenana_20261105_210139</Name>
+    <DisplayName>DataLeakageCaseLurenana</DisplayName>
+    <Number>CASE01-2026</Number>
+    <Examiner>Demo-USB-Leak</Examiner>
+    <ExaminerPhone>09999999999</ExaminerPhone>
+    <ExaminerEmail>lchristellejanine@gmail.com</ExaminerEmail>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
